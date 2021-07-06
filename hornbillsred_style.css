@@ -9,7 +9,7 @@ body {
 	 min-height: 100vh;
 	 box-sizing: border-box;
 	 font-family: 'Josefin Slab', serif;
-	 background: linear-gradient(245deg, #027510, #4fd128);
+	 background: linear-gradient(245deg, #750202, #805e00);
 	 background-size: 400% 400%;
 	 -webkit-animation: Vampire 60s ease infinite;
 	 -moz-animation: Vampire 60s ease infinite;
