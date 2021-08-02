@@ -28,13 +28,13 @@ const baseSpeed = 0.1;
 const rangeSpeed = 2;
 const baseRadius = 1;
 const rangeRadius = 4;
-const baseHue = -0;
+const baseHue = 293;
 const rangeHue = 50;
 const noiseSteps = 8;
 const xOff = 0.00125;
 const yOff = 0.00125;
 const zOff = 0.0005;
-const backgroundColor = 'hsla(260,40%,5%,1)';
+const backgroundColor = 'rgb(0,0,0)';
 
 let container;
 let canvas;
